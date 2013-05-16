@@ -1,0 +1,27 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace PotterKata
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World2!");
+
+            Random rand = new Random();
+<<<<<<< HEAD
+            for (int i = 0; i < 81; i++)
+=======
+            for (int i = 0; i < 100; i++)
+>>>>>>> f610f5093291be265e787fc144a5ee336adc3e77
+            {
+                Console.WriteLine(rand.Next(999));
+            }
+            Console.ReadKey();
+        }
+    }
+}
