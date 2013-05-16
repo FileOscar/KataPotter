@@ -10,10 +10,12 @@ namespace PotterKata
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World2!");
+            Console.WriteLine("Hello World");
             Console.WriteLine("Hello World");
 
             Random rand = new Random();
-            for (int i = 0; i < 81; i++)
+            for (int i = 0; i < 100; i++)
             {
                 Console.WriteLine(rand.Next(999));
             }
