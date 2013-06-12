@@ -65,6 +65,15 @@
     <Content Include="favicon.ico" />
     <Content Include="img\glyphicons-halflings-white.png" />
     <Content Include="img\glyphicons-halflings.png" />
+    <Content Include="img\HarryPotterBackground.jpg" />
+    <Content Include="img\HP1.jpg" />
+    <Content Include="img\HP2.jpg" />
+    <Content Include="img\HP3.jpg" />
+    <Content Include="img\HP4.jpg" />
+    <Content Include="img\HP5.jpg" />
+    <Content Include="img\HP6.jpg" />
+    <Content Include="img\HP7.jpg" />
+    <Content Include="img\HP8.jpg" />
     <Content Include="index.html" />
     <Content Include="js\main.js" />
     <Content Include="js\vendor\bootstrap.js" />
